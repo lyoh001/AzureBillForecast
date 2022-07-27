@@ -1,4 +1,4 @@
-# COVID-19 Xray
+# Azure Bill Forecast
 ## 1. Introduction
 ### 1.1	Background
 
@@ -14,28 +14,6 @@ COVID is possibly better diagnosed using radiological imaging Fang, 2020 and Ai 
 The dataset consists of a posteroanterior (PA) view of chest X-ray images comprising Normal, Viral, and CVOID-19 affected patients. There are total 1823 CXR images.
 
 
-## 3 Covid19 Classification using Convolutional Neural Networks
-- [Notebook using Mobilenet_v2](https://github.com/lyoh001/DLCovid19/blob/main/notebook/notebook_mobilenet_v2.ipynb)
+## 3 Azure Bill Forecast using LSTM Neural Networks
+- [Notebook](https://github.com/lyoh001/AzureBillForecast/blob/main/notebook/notebook.ipynb)
 
-- [Notebook using CNN](https://github.com/lyoh001/DLCovid19/blob/main/notebook/notebook_cnn.ipynb)
-
-
-## 4 Mobilenet_v2 Reference
-https://tfhub.dev/google/tf2-preview/mobilenet_v2/classification/4
-
-
-## 5 Citation
-### 5.1	Acknowledgements
-- Joseph Paul Cohen and Paul Morrison and Lan Dao. COVID-19 image data collection, arXiv, 2020. https://github.com/ieee8023/covid-chestxray-dataset
-
-- https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/
-
-- D. Kermany, K. Zhang, M. Goldbaum, Large dataset of labeled optical coherence tomography (oct) and chest x-ray images, Mendeley Data, v3
-http://dx. doi. org/10.17632/rscbjbr9sj 3 (2018).
-
-- C. J. P, P. Morrison, D. L, Covid-19 image data collection, arxiv, arXiv preprint arXiv:2003.11597 (2020). URL https://github.com/ieee8023/covid-chestxray-dataset
-
-- Z.-H. Chen, Mask-rcnn detection of covid-19 pneumonia symptoms by employing stacked autoencoders in deep unsupervised learning on low-dose
-high resolution ct (2020). doi:10.21227/4kcm-m312.URL http://dx.doi.org/10.21227/4kcm-m312
--  D. S. et.al, Covid19action-radiology-cxr (2020). doi:10.21227/s7pw-jr18.
-URL http://dx.doi.org/10.21227/s7pw-jr18
